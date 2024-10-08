@@ -1,0 +1,1 @@
+<button onclick="window.location.href='next-page.html'">Ir para a próxima página</button>
